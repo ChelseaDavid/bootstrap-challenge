@@ -130,12 +130,12 @@
 				</div>
 			</div>
 		</section>
-		<section class="footer text-center bg-dark text-white">
+		<section class="footer text-center bg-dark">
 			<div class="row">
 				<div class="col-sm-8">
 				</div>
 			</div>
-				<div class="card-footer text-muted">
+				<div class="card-footer text-white">
 					Wingardium LeviOsa!
 				</div>
 		</section>
